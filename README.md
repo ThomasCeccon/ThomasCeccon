@@ -1,4 +1,4 @@
-# Olá, meu nome é Thomas Ceccon Guimarães! 
+# Olá, meu nome é Thomas Ceccon Guimarães ! 
 Obs: Perfil recentemente criado, para projetos pessoais. 
 
 • 🎓Graduando em Engenharia da Computação - INATEL 
