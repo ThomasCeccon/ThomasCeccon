@@ -1,7 +1,7 @@
 # Olá, meu nome é Thomas Ceccon Guimarães ! 
 Obs: Perfil recentemente criado, para projetos pessoais. 
 
-• 🎓Graduando em Engenharia da Computação - INATEL 
+• 🎓Graduando em Engenharia da Computação - INATELl 
 
 • 👨‍💻Estudando desenvolvimento de aplicações em Flutter 
 
